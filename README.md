@@ -46,7 +46,7 @@ dependencies {
 }
 ```
 
-3. (React Native 0.59 and lower) Add *`import cn.jystudio.bluetooth.RNBluetoothEscposPrinterPackage;`* and *`new RNBluetoothEscposPrinterPackage()`* in your *`MainApplication.java`* :
+3. (React Native 0.59 and lower) Add *`import cn.jystudio.bluetooth.RNBluetoothEscposPrinterPackage`* and *`packages.add(RNBluetoothEscposPrinterPackage())`* in your *`MainApplication.kt`* :
 
 
 
